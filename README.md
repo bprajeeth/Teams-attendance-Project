@@ -1,6 +1,6 @@
 # Microsoft Team's Attendance Calculator 🧑‍💻
 
-Team's attendance calculator is an *easy-to-use attendance calculator that can be 
+Team's attendance calculator is a **Desktop Application** that's an *easy-to-use attendance calculator that can be 
 used with a click of a single button* that can save teachers loads of time 
 and a log-book with precise and accurate details of attendance which has 
 been compiled for many timestamps and stored in an excel file 
